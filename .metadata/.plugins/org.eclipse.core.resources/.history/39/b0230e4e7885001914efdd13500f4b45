@@ -1,0 +1,8 @@
+package br.com.zup.exercicios;
+
+public class MenorMaior {
+	public static void main(String[] args) {
+	//3) Escreva um programa que leia dois números e apresente a diferença do maior para o menor.
+	int 	
+	}
+}
